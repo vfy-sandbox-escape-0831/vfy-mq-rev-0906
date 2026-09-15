@@ -1,0 +1,1 @@
+arm2: blocking conversation by a READ-only user after enqueue
